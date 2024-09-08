@@ -1,0 +1,15 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background: url("img/banner7.png");
+}
+h1 {
+    color: #9e5c15;
+    text-align: center;
+}
+p {
+    line-height: 1.5;
+    color: #022428;
+}
